@@ -27,7 +27,7 @@ Belonging to the genus _Caladenia_, the blood spider orchids often burst into fl
 <!-- ABOUT THE PROJECT -->
 ### Features
 
-_Caladenia_ orchids are commonly known as spider orchids which consist of 136 species in Western Australia. The dataset used for this exercise contains 16 species, with cowslip orchids (_C. flava_) being the most commonly observed in the region. For this analysis, the recorded species have been informally grouped into a binary classification: those with long, narrow sepals and petals (“spiders”) and those with broader ones (“broad-sepals”).
+_Caladenia_ orchids are commonly known as spider orchids which consist of about 136 species in Western Australia (iNaturalist). The dataset used for this exercise contains 16 species, with cowslip orchids (_C. flava_) being the most commonly observed in the region. For this analysis, the recorded species have been informally grouped into a binary classification: those with long, narrow sepals and petals (“spiders”) and those with broader ones (“broad-sepals”).
 
 <figure>
     <center>
