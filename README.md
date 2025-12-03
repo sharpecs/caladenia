@@ -6,13 +6,13 @@
     <center>
     <img src="./assets/caladenia-00.png">
     <center>
-    Spiders (C.filifera) and Broad-Sepal (C.latifolia)
+    Spiders (_C.filifera_) and Broad-Sepal (_C.latifolia_)
 </figure>
 
 
 ## The BioBlitz weekend at Julimar Forest was a great experience, bringing together a vibrant community of specialists and enthusiasts who shared expert insights. I was particularly fascinated to see so many Blood Spider Orchids—a species I’ve never encountered on my walks closer to home.
 
-Belonging to the genus _Caladenia_, the blood spider orchids often burst into flower in areas with seasonal fires—perhaps a rare silver lining in Julimar's recovery after prescribed burns. Like all orchids, they are interesting in that they rely on intricate ecological relationships to survive, perhaps making them excellent indicators of a healthy ecosystem. In this exercise, observational details of _Caladenia_ are combined with machine-learning algorithms to explore where Spider Orchids might thrive in areas around Perth.
+Belonging to the genus _Caladenia_, the blood spider orchids often burst into flower in areas with seasonal fires—a rare silver lining in Julimar's recovery after prescribed burns. Like all orchids, they are interesting in that they rely on intricate ecological relationships to survive, perhaps making them excellent indicators of a healthy ecosystem. In this exercise, observational details of _Caladenia_ are combined with machine-learning algorithms to explore where Spider Orchids might thrive in areas around Perth.
 
 ### Content
 <ol>
@@ -27,7 +27,7 @@ Belonging to the genus _Caladenia_, the blood spider orchids often burst into fl
 <!-- ABOUT THE PROJECT -->
 ### Features
 
-_Caladenia_ orchids are commonly known as spider orchids which consist of 136 species in Western Australia. The dataset used for this exercise contains 16 species, with cowslip orchids (C. flava) being the most commonly observed in the region. For this analysis, the recorded species have been informally grouped into a binary classification: those with long, narrow sepals and petals (“spiders”) and those with broader ones (“broad-sepals”).
+_Caladenia_ orchids are commonly known as spider orchids which consist of 136 species in Western Australia. The dataset used for this exercise contains 16 species, with cowslip orchids (_C. flava_) being the most commonly observed in the region. For this analysis, the recorded species have been informally grouped into a binary classification: those with long, narrow sepals and petals (“spiders”) and those with broader ones (“broad-sepals”).
 
 <figure>
     <center>
@@ -105,7 +105,7 @@ Machine C provided the most accurate predictions, indicating a 95% probability o
     <center>
 </figure>
 
-Machine D predicted spider orchid presence only at Julimar State Forest and Korung National Park. Due to its high false-positive rate, only these two localities were considered reliable for probability estimation. Julimar, having the largest cluster of presence-only data, was assigned a 58% probability. Machine D excels at identifying areas outside typical spider orchid habitats, which are mapped as “hotspots” in the above figure. Since the dataset classifies _Caladenia_ types in binary terms, these hotspots would correspond to areas where broad-sepal orchids occur, which are conditions suitable for spider orchids. The species spread was estimated by scoring each hotspot and generating contour regions based on these values. The coloured area near Victoria Reservoir, where the contours overlap, represents both distribution and magnitude. This figure also ranks the parks by their suitability for spider orchids, using density coloring-Julimar State Forest is estimated as the most suitable, whereas Mundy Regional Park is the least.
+Machine D predicted spider orchid presence only at Julimar State Forest and Korung National Park. Due to its high false-positive rate, only these two localities were considered reliable for probability estimation. Julimar, having the largest cluster of presence-only data, was assigned a 58% probability. Machine D excels at identifying areas outside typical spider orchid habitats, which are mapped as “hotspots” in the above figure. Since the dataset classifies _Caladenia_ types in binary terms, these hotspots would correspond to areas where broad-sepal orchids occur, which are conditions suitable for spider orchids. The species spread was estimated by scoring each hotspot and generating contour regions based on these values. The coloured area near Victoria Reservoir, where the contours overlap, represents both distribution and magnitude. This figure also ranks the parks by their suitability for spider orchids, using density colouring—Julimar State Forest is estimated as the most suitable, whereas Mundy Regional Park is the least.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
