@@ -6,7 +6,7 @@
     <center>
     <img src="./assets/caladenia-00.png">
     <center>
-    Spiders (_C.filifera_) and Broad-Sepal (_C.latifolia_)
+    Spiders (C.filifera) and Broad-Sepal (C.latifolia)
 </figure>
 
 
