@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 
-# CALADENIA: Insights into Spider Orchids with supervised learning.
+# CALADENIA: Insights into Spider Orchids with ML.
 
 <figure>
     <center>
