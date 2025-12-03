@@ -36,7 +36,7 @@ _Caladenia_ orchids are commonly known as spider orchids which consist of 136 sp
 </figure>
 
 
-Orchids in general lacks chlorophyll during germination and depend on a type of basidios jelly fungus, which comes packaged in the seed to provide nutrition until the plant can begin photosynthesis. The distribution and diversity of these species are therefore strongly dependent on the availability of their fungal symbionts.
+Orchids in general lack chlorophyll during germination and depend on a type of basidios jelly fungus, which comes packaged in the seed to provide nutrition until the plant can begin photosynthesis. The distribution and diversity of these species are therefore strongly dependent on the availability of their fungal symbionts.
 
 During periods of dormancy, nutrients are stored in the tubers, allowing the plants to survive extreme conditions beneath the soil surface until conditions improve. In the Perth region, the flowering season runs from July to November, with some species blooming only briefly. These orchids grow on the ground in open areas across a variety of vegetation types and habitats.
 
