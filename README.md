@@ -1,12 +1,12 @@
 <a id="readme-top"></a>
 
-# CALADENIA: Insights into Spider Orchids around Perth with Machine Learning.
+# CALADENIA: Insights into Spider Orchids with supervised learning.
 
 <figure>
     <center>
     <img src="./assets/caladenia-00.png">
     <center>
-    Spiders (C.filifera) and Borad-Sepal (C.latifolia)
+    Spiders (C.filifera) and Broad-Sepal (C.latifolia)
 </figure>
 
 
